@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XtraReportsLayoutSerializer SerializerVersion="19.2.6.0" Ref="0" ControlType="ReportDesigner.PredefinedReports.TempReport, ReportDesigner, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" Name="TempReport" DisplayName="TempReport1" PageWidth="850" PageHeight="1100" Version="19.2">
+  <Extensions>
+    <Item1 Ref="1" Key="DataSerializationExtension" Value="DevExpress.XtraReports.Web.ReportDesigner.DefaultDataSerializer" />
+  </Extensions>
+  <Bands>
+    <Item1 Ref="2" ControlType="TopMarginBand" Name="topMarginBand1">
+      <Controls>
+        <Item1 Ref="3" ControlType="XRLabel" Name="label1" Multiline="true" Text="REPORT TITLE" TextAlignment="TopCenter" SizeF="382.29163,56.70832" LocationFloat="125, 25" Font="Times New Roman, 24.33pt, style=Bold" Padding="2,2,0,0,100">
+          <StylePriority Ref="4" UseFont="false" UseTextAlignment="false" />
+        </Item1>
+      </Controls>
+    </Item1>
+    <Item2 Ref="5" ControlType="DetailBand" Name="detailBand1">
+      <Controls>
+        <Item1 Ref="6" ControlType="XRLine" Name="line1" SizeF="445.83,23" LocationFloat="81.77, 61.46" />
+        <Item2 Ref="7" ControlType="XRLabel" Name="label2" Multiline="true" Text="label2" SizeF="100,23" LocationFloat="240.625, 25.99999" Padding="2,2,0,0,100" />
+      </Controls>
+    </Item2>
+    <Item3 Ref="8" ControlType="BottomMarginBand" Name="bottomMarginBand1">
+      <Controls>
+        <Item1 Ref="9" ControlType="XRCharacterComb" Name="characterComb1" Multiline="true" Text="characterComb1" SizeF="294.79,60.21" LocationFloat="175.52, 20" />
+        <Item2 Ref="10" ControlType="XRPageInfo" Name="pageInfo1" PageInfo="Number" SizeF="100,23" LocationFloat="25, 43.75" Padding="2,2,0,0,100" />
+      </Controls>
+    </Item3>
+  </Bands>
+</XtraReportsLayoutSerializer>

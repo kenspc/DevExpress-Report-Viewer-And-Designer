@@ -1,0 +1,16 @@
+{
+  "name": "asp.net",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "cldrjs": "^0.5.0",
+    "devextreme": "19.2-next",
+    "devexpress-richedit": "19.2-next",
+    "@devexpress/analytics-core": "19.2-next",
+    "devexpress-reporting": "19.2-next",
+    "globalize": "^1.3.0",
+    "jquery-ui-dist": "^1.12.1"
+  }
+}

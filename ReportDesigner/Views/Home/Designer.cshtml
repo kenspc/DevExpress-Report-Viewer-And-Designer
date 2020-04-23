@@ -1,0 +1,9 @@
+﻿<link rel="stylesheet" href="~/css/viewer.part.bundle.css" />
+<link rel="stylesheet" href="~/css/designer.part.bundle.css" />
+
+<script src="~/js/viewer.part.bundle.js"></script>
+<script src="~/js/designer.part.bundle.js"></script>
+
+@(Html.DevExpress().ReportDesigner("reportDesigner")
+    .Height("1000px")
+    .Bind("TempReport2"))

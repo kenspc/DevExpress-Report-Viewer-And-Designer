@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XtraReportsLayoutSerializer SerializerVersion="19.2.6.0" Ref="0" ControlType="DevExpress.XtraReports.UI.XtraReport, DevExpress.XtraReports.v19.2, Version=19.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Name="TempReport" PageWidth="850" PageHeight="1100" Version="19.2">
+  <Bands>
+    <Item1 Ref="1" ControlType="TopMarginBand" Name="topMarginBand1">
+      <Controls>
+        <Item1 Ref="2" ControlType="XRLabel" Name="label1" Multiline="true" Text="REPORT TITLE" TextAlignment="TopCenter" SizeF="382.291626,56.70832" LocationFloat="125, 25" Font="Times New Roman, 24.33pt, style=Bold" Padding="2,2,0,0,96">
+          <StylePriority Ref="3" UseFont="false" UseTextAlignment="false" />
+        </Item1>
+      </Controls>
+    </Item1>
+    <Item2 Ref="4" ControlType="DetailBand" Name="detailBand1">
+      <Controls>
+        <Item1 Ref="5" ControlType="XRLabel" Name="label2" Multiline="true" Text="label2" SizeF="100,23" LocationFloat="240.625, 25.99999" Padding="2,2,0,0,96" />
+      </Controls>
+    </Item2>
+    <Item3 Ref="6" ControlType="BottomMarginBand" Name="bottomMarginBand1" />
+  </Bands>
+</XtraReportsLayoutSerializer>
